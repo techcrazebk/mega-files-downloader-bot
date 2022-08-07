@@ -8,17 +8,20 @@ else:
 class Translation(object):
     START_TEXT = f"""<b>Hello there,</b>
     
-I am a <b>Mega Link Downloader</b> bot!
+I am a <b>Mega Link Downloader</b> bot ❤️💫!
 
 Just send me your mega.nz file link and I will return the file or video to you!
 
-💠 I can also set custom captions and custom thumbnails too!
+🤓 I can set custom captions & custom thumbnails!
 
-💠 I can download links which are bigger than 2GB too! 😍
+🤓 I can download links which are bigger than 1GB too!(Limit 1.5GB)
 
 Press /help for more details!
 
-✨ <b>I am open source so you can make your own bot from here!👇</b>"""
+More Bots 🤖: @BotsByBk
+Channel 📢: @ChannelsByBk
+
+🤓 <b>I am open source so you can make your own bot from here!👇</b>"""
     
     DOWNLOAD_START = "<b>Downloading to my server now 📥</b> \n\n<code>Please wait uploading will start as soon as possible😇...</code>"
     UPLOAD_START = "Uploading to Telegram now 📤..."
@@ -54,6 +57,8 @@ The thumbnail you send will be used for your next uploads!)</i>
 🙃 Select an uploaded file or video or forward me <b>Any Telegram File</b> and Just write the text you want to be on the file as a reply to the File by selecting it (as replying to a message😅) and the text you wrote will be attached as caption!😍
 
 Watch Tutorial Video📌:- https://neon.ly/tutorial-video
+
+More Bots 🤖: @BotsByBk
 
 <b>Note</b> :- Please send only those download links which are not bigger than 1GB! Due to telegram API limits I can't upload files which are bigger than 1.5GB so I will split such files and upload them to you!
 
