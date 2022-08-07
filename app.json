@@ -1,6 +1,6 @@
 {
-  "name": "Mega Link Downloader Bot",
-  "description": "This is a telegram bot to download mega.nz links.",
+  "name": "Mega Files Downloader Bot",
+  "description": "This is a telegram bot to download mega.nz files (files/video/audio anything) links.",
   "keywords": [
     "telegram",
     "mega.nz",
@@ -12,7 +12,7 @@
     "bot",
     "uploader"
   ],
-  "success_url": "https://t.me/mega_files-down_bot",
+  "success_url": "https://t.me/mega_files_down_bot",
   "website": "https://github.com/techcrazebk/mega-files-downloader-bot",
   "logo": "https://telegra.ph/file/a438489c44d17d108f7b5.jpg",
   "repository": "https://github.com/techcrazebk/mega-files-downloader-bot",
