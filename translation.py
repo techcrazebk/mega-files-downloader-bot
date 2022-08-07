@@ -41,7 +41,7 @@ Channel 📢: @ChannelsByBk
 
 - Your link should be valid(not expired or been removed) & should not be password protected/encrypted/private!
 
-📌 <b>Custom Thumbnail:-</b> <i>(This step is Optional)</i>
+📌 <b>Custom Thumbnail:-</b> (This step is Optional)
 
 🙃 If you want a custom thumbnail for your file send me a photo before sending the link!.
      
@@ -56,7 +56,7 @@ The thumbnail you send will be used for your next uploads!)</i>
 
 🙃 Select an uploaded file or video or forward me <b>Any Telegram File</b> and Just write the text you want to be on the file as a reply to the File by selecting it (as replying to a message😅) and the text you wrote will be attached as caption!😍
 
-Watch Tutorial Video📌:- https://neon.ly/tutorial-video
+📌 Watch Tutorial Video:- https://neon.ly/tutorial-video
 
 More Bots 🤖: @BotsByBk
 
