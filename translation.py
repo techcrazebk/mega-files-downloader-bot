@@ -8,12 +8,13 @@ else:
 class Translation(object):
     START_TEXT = f"""<b>Hello there,</b>
     
-I am a <b>Mega Link Downloader</b> bot ❤️💫!
+I am a <b>Mega Files Downloader</b> bot ❤️💫!
+
+You can download your mega files (Video/Audio/PDF anything)
 
 Just send me your mega.nz file link and I will return the file or video to you!
 
 🤓 I can set custom captions & custom thumbnails!
-
 🤓 I can download links which are bigger than 1GB too!(Limit 1.5GB)
 
 Press /help for more details!
