@@ -10,9 +10,9 @@ class Translation(object):
     
 I am a <b>Mega Link Downloader</b> bot!
 
-Just enter your mega.nz link and I will return the file/video to you!😇
+Just send me your mega.nz file link and I will return the file or video to you!
 
-💠 I can set custom captions and custom thumbnails too!
+💠 I can also set custom captions and custom thumbnails too!
 
 💠 I can download links which are bigger than 2GB too! 😍
 
@@ -28,31 +28,33 @@ Press /help for more details!
 
     HELP_USER = f"""<b><u>🍁Hi I am a Mega Link Downloader Bot.. 🍁</u></b>
  
-<u>How to use me:-</u>
+<b><u>How to use this bot:-</u></b>
 
-<b>Just Send me a mega.nz file link!</b>
+<b>Just Send me your mega.nz file link!</b>
 
-<b>Important:-</b> 
+<b>Important things:-</b> 
 
-- Folder links are not supported.
+- For Now folder links are not supported.
 
-- Your link should be valid(not expired or been removed) and should not be password protected or encrypted or private!
+- Your link should be valid(not expired or been removed) & should not be password protected/encrypted/private!
 
-❇️ <b>If you want a custom thumbnail for your uploads send a photo before sending the mega link!.</b> <i>(This step is Optional)</i>
+📌 <b>Custom Thumbnail:-</b> <i>(This step is Optional)</i>
 
-💠 It means it is not necessary to send an image to include as an thumbnail.
+🙃 If you want a custom thumbnail for your file send me a photo before sending the link!.
+     
+ <i>(It means it is not necessary to send an image to include as an thumbnail.
 If you don't send a thumbnail the video/file will be uploaded with an auto genarated thumbnail from the video.
-The thumbnail you send will be used for your next uploads!
+The thumbnail you send will be used for your next uploads!)</i>
 
-press /deletethumbnail if you want to delete the previously saved thumbnail.
+🙃 Press /deletethumbnail if you want to delete the previously saved thumbnail.
 (Then the video will be uploaded with an auto-genarated thumbnail!)
 
-❇️ <b>Special feature</b> :- <i>Set caption to any file you want!</i>
+📌 <b>Special feature</b> :- <i>Set caption to any file you want!</i>
 
-💠 Select an uploaded file/video or forward me <b>Any Telegram File</b> and Just write the text you want to be on the file as a reply to the File by selecting it (as replying to a message😅) and the text you wrote will be attached as caption!😍
+🙃 Select an uploaded file or video or forward me <b>Any Telegram File</b> and Just write the text you want to be on the file as a reply to the File by selecting it (as replying to a message😅) and the text you wrote will be attached as caption!😍
 
-Ex:- <a href="https://telegra.ph/file/bdc35efc07712050bc418.jpg">Send Like This! It's Easy🥳</a>
+Watch Tutorial Video📌:- https://neon.ly/tutorial-video
 
-<b>Note</b> :- You can download links which are bigger than 2GB from me too! Due to telegram API limits I can't upload files which are bigger than 2GB so I will split such files and upload them to you!
+<b>Note</b> :- Please send only those download links which are not bigger than 1GB! Due to telegram API limits I can't upload files which are bigger than 1.5GB so I will split such files and upload them to you!
 
 ✨ <b>I am open source so you can make your own bot from here!👇</b>"""
