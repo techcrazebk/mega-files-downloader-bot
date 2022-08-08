@@ -46,7 +46,7 @@ Please be kind to star and fork this repo!✨😇
 
 <br>
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meghapoojari/mega-link-downloader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/techcrazebk/mega-files-downloader-bot)
 </details>
 
 <details>
@@ -134,7 +134,7 @@ Now If you did everything correctly bot will be running successfully! 🥳
   - Execute the below commands. 👇
 
 ```sh  
-git clone https://github.com/XMYSTERlOUSX/mega-link-downloader-bot
+git clone https://github.com/techcrazebk/mega-files-downloader-bot
 ```
 ```sh  
 apt install python3-pip
