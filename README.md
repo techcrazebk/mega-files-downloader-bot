@@ -134,7 +134,7 @@ Now If you did everything correctly bot will be running successfully! 🥳
   - Execute the below commands. 👇
 
 ```sh  
-git clone https://github.com/techcrazebk/mega-files-downloader-bot
+git clone https://github.com/XMYSTERlOUSX/mega-link-downloader-bot
 ```
 ```sh  
 apt install python3-pip
